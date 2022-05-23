@@ -1,5 +1,5 @@
 # V3x
-V3x is a full recode of **Destiny 1**.
+V3x is a fan-made game part of the Destiny franchise. **THIS IS NOT PART OF THE OFFICIAL DESTINY GAMES LIST!**
 
 ## Contributions
 You can contribute to V3x by just playing the game. The more support we have towards the game, the more we can expand the game.
@@ -20,6 +20,4 @@ If you want to help create and design graphics for the game or concept art, plea
 You can already game test! You can head over to the beta downloads on the discord.
 
 ## Licensing
-Texutres and assets were created by **Bungie**. **This is just a fan recreation of Destiny 1 and no monetary value is trying to be made.**
-
 V3x is not affiliated with Bungie in any ways.
