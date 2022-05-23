@@ -21,3 +21,5 @@ You can already game test! You can head over to the beta downloads on the discor
 
 ## Licensing
 Texutres and assets were created by **Bungie**. **This is just a fan recreation of Destiny 1 and no monetary value is trying to be made.**
+
+V3x is not affiliated with Bungie in any ways.
